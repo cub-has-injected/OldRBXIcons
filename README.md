@@ -1,8 +1,7 @@
 # OldRBXIcons
 Tutorial temporary are for RU: Иконки старого роблокса в новых версиях.
 
-RU:
-# Что такое OldRBXIcons?
+# RU: Что такое OldRBXIcons?
 Кратко, старые иконки для роблокса.
 OldRBXIcons расшифровается как Old Roblox Icons или же Старые Роблокс Иконки.
 

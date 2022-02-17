@@ -5,7 +5,7 @@ Icons of old Roblox in the newer versions. / Иконки старого роб�
 
 # **ENG: What is "OldRBXIcons"? / RU: Что такое "OldRBXIcons?"**
 
-Кратко, старые иконки для роблокса. / In short, it's old icons for Roblox.
+In short, it's old icons for Roblox. / Кратко, старые иконки для роблокса.
 
 ***Does it uses scripts? / Это скрипт?***
 

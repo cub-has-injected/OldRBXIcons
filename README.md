@@ -23,12 +23,12 @@
 Да, пока Роблокс не запретит замену файлов. / Yes, untill Roblox disables the feature of changing the files. 
 
 
-**Есть ли поддержка для устройств на Android или iOS? / Is there a port for a Android or iOS?**
+# **Есть ли поддержка для устройств на Android или iOS? / Is there a port for a Android or iOS?**
 
 Нет и не будет. OldRBXIcons предназначен для ПК. / Nope and never will be. OldRBXIcons is designed only for PC.
 
 
-**Скриншоты / Screenshots:**
+# **Скриншоты / Screenshots:**
 ![image](https://user-images.githubusercontent.com/83903792/154313859-a860f0a7-4bf5-4cdf-853c-499a7ae8bc37.png) - OldRBXIcons 1.1 в геймплее / Gameplay.
 
 ![image](https://user-images.githubusercontent.com/83903792/154313996-597bd834-d882-4e0d-83ff-6341c9bff697.png) - OldRBXIcons 1.0 в загрузке / Loading screen.

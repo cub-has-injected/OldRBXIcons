@@ -7,19 +7,19 @@ Icons of old Roblox in the newer versions. / Иконки старого роб�
 
 Кратко, старые иконки для роблокса. / In short, it's old icons for Roblox.
 
-**Does it uses scripts? / Это скрипт?
+***Does it uses scripts? / Это скрипт?***
 
 Nope. It's just change of the files. It's way long to search for them, so they are put in one collection. / Нет. Это замена файлов. Их долго искать так что они в одном сборнике.
 
-**How to install it? / Как установить?**
+***How to install it? / Как установить?***
 
 In the folder there's a file called "OPENME". / В архиве есть файл с туториалом который называется "OPENME".
 
-**Will OLDRBXIcons be in developement for a long time? / Будет ли OLDRBXIcons разрабытаваться на протяжении долгого времени?**
+***Will OLDRBXIcons be in developement for a long time? / Будет ли OLDRBXIcons разрабытаваться на протяжении долгого времени?***
 
 Yes, untill Roblox disables the feature of changing the files.  / Да, пока Роблокс не запретит замену файлов. 
 
-# **Is there a port for a Android or iOS? / Есть ли поддержка для устройств на Android или iOS?**
+# ***Is there a port for a Android or iOS? / Есть ли поддержка для устройств на Android или iOS?***
 
 Nope and never will be. OldRBXIcons is designed only for PC. / Нет и не будет. OldRBXIcons предназначен для ПК.
 

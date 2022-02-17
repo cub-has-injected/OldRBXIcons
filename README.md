@@ -4,10 +4,10 @@
 # RU: Что такое "OldRBXIcons?" / ENG: What is "OldRBXIcons?"
 Кратко, старые иконки для роблокса. / In short, it's old icons for Roblox.
 
-Это скрипт? / Does it uses scripts?
+# Это скрипт? / Does it uses scripts?
 Нет. Это замена файлов. Их долго искать так что они в одном сборнике. / Nope. It's just change of the files. It's way long to search for them, so they are put in one collection.
 
-Как установить? / How to install it?
+# Как установить? / How to install it?
 В архиве есть файл с туториал который называется "OPENME". / In the folder there's a file called "OPENME"
 
 # Будет ли OLDRBXIcons разрабытаваться на протяжении долгого времени? / # Will OLDRBXIcons be in developement for a long time?

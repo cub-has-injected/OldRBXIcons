@@ -1,4 +1,5 @@
 # OldRBXIcons
+![oldrbxicons-made-by-cub-and-rejver](https://user-images.githubusercontent.com/83903792/154422801-adfa5a8a-312c-4c34-b36f-4fb65ac7ed2c.svg)
 Иконки старого роблокса в новых версиях. / Icons of old Roblox in the newer versions
 
 # RU: Что такое "OldRBXIcons?" / ENG: What is "OldRBXIcons?"

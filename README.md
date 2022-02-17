@@ -24,7 +24,7 @@ Yes, untill Roblox disables the feature of changing the files. / Да, пока 
 Nope and never will be. OldRBXIcons is designed only for PC. / Нет и не будет. OldRBXIcons предназначен для ПК.
 
 
-# **Скриншоты / Screenshots:**
+# **Screenshots / Скриншоты:**
 ![image](https://user-images.githubusercontent.com/83903792/154313859-a860f0a7-4bf5-4cdf-853c-499a7ae8bc37.png) - OldRBXIcons 1.1 Gameplay | В геймплее.
 
 ![image](https://user-images.githubusercontent.com/83903792/154313996-597bd834-d882-4e0d-83ff-6341c9bff697.png) - OldRBXIcons 1.0 Loading screen | В загрузке.

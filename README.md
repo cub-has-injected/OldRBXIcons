@@ -18,7 +18,7 @@
 В архиве есть файл с туториал который называется "OPENME". / In the folder there's a file called "OPENME"
 
 
-**Будет ли OLDRBXIcons разрабытаваться на протяжении долгого времени? / # Will OLDRBXIcons be in developement for a long time?**
+**Будет ли OLDRBXIcons разрабытаваться на протяжении долгого времени? / Will OLDRBXIcons be in developement for a long time?**
 
 Да, пока Роблокс не запретит замену файлов. / Yes, untill Roblox disables the feature of changing the files. 
 

@@ -1,29 +1,21 @@
 # OldRBXIcons
-Tutorial temporary are for RU: Иконки старого роблокса в новых версиях.
+Иконки старого роблокса в новых версиях. / Icons of old Roblox in the newer versions
 
-# RU: Что такое OldRBXIcons?
-Кратко, старые иконки для роблокса.
-OldRBXIcons расшифровается как Old Roblox Icons или же Старые Роблокс Иконки.
+# RU: Что такое "OldRBXIcons?" / ENG: What is "OldRBLXIcons?"
+Кратко, старые иконки для роблокса. / In short, it's old icons for Roblox.
 
-Это скрипт?
-Нет. Это замена файлов. Их долго искать так что они в одном сборнике.
+Это скрипт? / Does it uses scripts?
+Нет. Это замена файлов. Их долго искать так что они в одном сборнике. / Nope. It's just change of the files. It's way long to search for them, so they are put in one collection.
 
-Где скачать?
-В папке, там где выше README.md сверху этой штуки.
-Или же в релизах тоже как вариант.
+Как установить? / How to install it?
+В архиве есть файл с туториал который называется "OPENME". / In the folder there's a file called "OPENME"
 
-Что делать?
-В архиве есть файл с туториал который называется "ОТКРОЙМЕНЯ".
+# Будет ли OLDRBLXIcons разрабытаваться на протяжении долгого времени? / # Will OLDBLXIcons be in developement for a long time?
+Да, пока Роблокс не запретит замену файлов. / Yes, untill Roblox disables the feature of changing the files. 
 
-# Разрабатывается ли OldRBXIcons?
-Да, и ещё долго пока роблокс не запретит замену файлов.
+# Есть ли поддержка для телефонов? / # Is there a port for a Android or iOS?
+Нет и не будет. OldRBXIcons предназначен для ПК. / Nope and never will be. OldRBLXIcons is designed only for PC.
+# Скриншоты / Screenshots:
+![image](https://user-images.githubusercontent.com/83903792/154313859-a860f0a7-4bf5-4cdf-853c-499a7ae8bc37.png) - OldRBXIcons 1.1 в геймплее / Gameplay.
 
-# Есть ли поддержка для телефонов?
-Нет и не будет. OldRBXIcons предназначен для ПК.
-# Скриншоты:
-![image](https://user-images.githubusercontent.com/83903792/154313859-a860f0a7-4bf5-4cdf-853c-499a7ae8bc37.png) - OldRBXIcons 1.1 в геймплее.
-
-![image](https://user-images.githubusercontent.com/83903792/154313996-597bd834-d882-4e0d-83ff-6341c9bff697.png) - OldRBXIcons 1.0 в загрузке.
-
-
-
+![image](https://user-images.githubusercontent.com/83903792/154313996-597bd834-d882-4e0d-83ff-6341c9bff697.png) - OldRBXIcons 1.0 в загрузке / Loading screen.

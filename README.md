@@ -19,10 +19,12 @@
 
 
 **Будет ли OLDRBXIcons разрабытаваться на протяжении долгого времени? / # Will OLDRBXIcons be in developement for a long time?**
+
 Да, пока Роблокс не запретит замену файлов. / Yes, untill Roblox disables the feature of changing the files. 
 
 
 **Есть ли поддержка для устройств на Android или iOS? / Is there a port for a Android or iOS?**
+
 Нет и не будет. OldRBXIcons предназначен для ПК. / Nope and never will be. OldRBXIcons is designed only for PC.
 
 

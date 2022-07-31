@@ -3,7 +3,7 @@ Icons of old Roblox in the newer versions.
 
 ![oldrbxicons-made-by-cub-and-rejver](https://user-images.githubusercontent.com/83903792/154422801-adfa5a8a-312c-4c34-b36f-4fb65ac7ed2c.svg)
 
-# **What is "OldRBXIcons"?
+# **What is "OldRBXIcons"?**
 
 In short, it's old icons for Roblox.
 

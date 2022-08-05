@@ -30,5 +30,4 @@ Nope and never will be. OldRBXIcons is designed only for PC.
 -------------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/83903792/183036750-d0bca375-7c81-4ed2-b1de-b191a94648d8.png)
-
  - OldRBXIcons 1.4 - Loading Screen.

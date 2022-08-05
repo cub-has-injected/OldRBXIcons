@@ -7,19 +7,22 @@ Icons of old Roblox in the newer versions.
 
 In short, it's old icons for Roblox.
 
-***Does it uses scripts?***
+# **Recommendation:**
+We recommend using OldRBXIcons with Bloxstrap to get full experience. (https://github.com/pizzaboxer/bloxstrap)
+
+**Does it uses scripts?**
 
 Nope. It's just change of the files. It's way long to search for them, so they are put in one collection.
 
-***How to install it?***
+**How to install it?**
 
 In the folder there's a file called "OPENME".
 
-***Will OLDRBXIcons be in developement for a long time?***
+**Will OLDRBXIcons be in developement for a long time?**
 
 Yes, untill Roblox disables the feature of changing the files.
 
-# ***Is there a port for a Android or iOS?***
+# **Is there a port for a Android or iOS?**
 
 Nope and never will be. OldRBXIcons is designed only for PC.
 

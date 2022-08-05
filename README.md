@@ -3,22 +3,18 @@ Icons of old Roblox in the newer versions.
 
 ![oldrbxicons-made-by-cub-and-rejver](https://user-images.githubusercontent.com/83903792/154422801-adfa5a8a-312c-4c34-b36f-4fb65ac7ed2c.svg)
 
-# **What is "OldRBXIcons"?**
-
-In short, it's old icons for Roblox.
-
 # **Recommendation:**
 We recommend using OldRBXIcons with Bloxstrap to get full experience. (https://github.com/pizzaboxer/bloxstrap)
 
-**Does it uses scripts?**
+# **Does it uses scripts?**
 
 Nope. It's just change of the files. It's way long to search for them, so they are put in one collection.
 
-**How to install it?**
+# **How to install it?**
 
 In the folder there's a file called "OPENME".
 
-**Will OLDRBXIcons be in developement for a long time?**
+# **Will OLDRBXIcons be in developement for a long time?**
 
 Yes, untill Roblox disables the feature of changing the files.
 

@@ -1,30 +1,20 @@
 # OldRBXIcons
-Иконки старого роблокса в новых версиях.
+Старые иконки Roblox в новых версиях. (со старым звуком смерти и курсором!) | [ENG](https://github.com/cub-has-injected/OldRBXIcons/blob/main/README.md)
 
 ![oldrbxicons-made-by-cub-and-rejver](https://user-images.githubusercontent.com/83903792/154422801-adfa5a8a-312c-4c34-b36f-4fb65ac7ed2c.svg)
 
-# **Что такое "OldRBXIcons?"**
+## **Рекомендация:**
+Мы рекомендуем использовать лаунчер Bloxstrap для полности комфорта. (https://github.com/pizzaboxer/bloxstrap)
 
-Кратко, старые иконки для роблокса.
+## **Как установить?**
 
-***Это скрипт?***
+Туториал в файле "OPENME".
 
-Нет. Это замена файлов. Их долго искать так что они в одном сборнике.
+## **Скриншоты:**
 
-***Как установить?***
+![image](https://user-images.githubusercontent.com/83903792/183037141-5399c6b2-8574-44c0-aedd-1751ba99a086.png)
+ - OldRBXIcons 1.4 - Геймплей.
+-------------------------------------------------------------
 
-В архиве есть файл с туториалом который называется "OPENME".
-
-***Будет ли OLDRBXIcons разрабытаваться на протяжении долгого времени?***
-
-Да, пока Роблокс не запретит замену файлов. 
-
-# ***Есть ли поддержка для устройств на Android или iOS?***
-
-Нет и не будет. OldRBXIcons предназначен для ПК.
-
-
-# **Screenshots / Скриншоты:**
-![image](https://user-images.githubusercontent.com/83903792/154313859-a860f0a7-4bf5-4cdf-853c-499a7ae8bc37.png) - OldRBXIcons 1.1 В геймплее.
-
-![image](https://user-images.githubusercontent.com/83903792/154313996-597bd834-d882-4e0d-83ff-6341c9bff697.png) - OldRBXIcons 1.0 В загрузке.
+![image](https://user-images.githubusercontent.com/83903792/183036750-d0bca375-7c81-4ed2-b1de-b191a94648d8.png)
+ - OldRBXIcons 1.4 - Загрузочный экран.

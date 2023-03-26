@@ -1,10 +1,10 @@
 # OldRBXIcons
-Icons of old Roblox in the newer versions. (with old cursor and OOF sound!)
+Icons of old Roblox in the newer versions. (with old cursor and OOF sound!) | [RU](https://github.com/cub-has-injected/OldRBXIcons/blob/main/RU_README.md)
 
 ![oldrbxicons-made-by-cub-and-rejver](https://user-images.githubusercontent.com/83903792/154422801-adfa5a8a-312c-4c34-b36f-4fb65ac7ed2c.svg)
 
 ## **Recommendation:**
-We recommend using OldRBXIcons with Bloxstrap to get full experience. (https://github.com/pizzaboxer/bloxstrap)
+We recommend using OldRBXIcons with [Bloxstrap](https://github.com/pizzaboxer/bloxstrap) to get full experience.
 
 ## **How to install it?**
 
